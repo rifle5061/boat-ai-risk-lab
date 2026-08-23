@@ -290,15 +290,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:34",
+    "beforeinfo_updated_at": "2026-08-23 12:51:36",
     "weather": {
-      "time": "11:19現在",
-      "air_temperature": "28.0℃",
+      "time": "12:17現在",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": [
@@ -625,7 +625,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:34",
+    "beforeinfo_updated_at": "2026-08-23 12:51:37",
     "weather": {
       "time": "1R時点",
       "air_temperature": "27.0℃",
@@ -960,7 +960,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:33",
+    "beforeinfo_updated_at": "2026-08-23 12:51:36",
     "weather": {
       "time": "2R時点",
       "air_temperature": "28.0℃",
@@ -1036,11 +1036,12 @@
         "boat_no_data": "62",
         "boat_2rate": "44.44",
         "boat_3rate": "55.56",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".13",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "野中 義生",
         "weight": "53.6kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -1061,11 +1062,12 @@
         "boat_no_data": "39",
         "boat_2rate": "0.00",
         "boat_3rate": "42.86",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".12",
+        "exhibition_time": "6.85",
         "beforeinfo_name": "常住 蓮",
         "weight": "51.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -1086,12 +1088,13 @@
         "boat_no_data": "16",
         "boat_2rate": "25.00",
         "boat_3rate": "33.33",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".12",
+        "exhibition_time": "6.88",
         "beforeinfo_name": "今井 貴士",
         "weight": "54.9kg",
         "parts_exchange": "リング×４",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -1112,11 +1115,12 @@
         "boat_no_data": "18",
         "boat_2rate": "43.75",
         "boat_3rate": "62.50",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".15",
+        "exhibition_time": "6.83",
         "beforeinfo_name": "木下 虎之輔",
         "weight": "53.0kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -1137,11 +1141,12 @@
         "boat_no_data": "70",
         "boat_2rate": "0.00",
         "boat_3rate": "0.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.05",
+        "exhibition_time": "6.86",
         "beforeinfo_name": "浜崎 準也",
         "weight": "52.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -1162,11 +1167,12 @@
         "boat_no_data": "72",
         "boat_2rate": "40.00",
         "boat_3rate": "60.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.99",
         "beforeinfo_name": "野相 弘司",
         "weight": "57.2kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 55,
@@ -1290,18 +1296,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:33",
+    "beforeinfo_updated_at": "2026-08-23 12:51:37",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "3R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".13"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".12"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".12"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".15"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": "F.05"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".07"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -1335,11 +1372,13 @@
         "boat_no_data": "22",
         "boat_2rate": "43.75",
         "boat_3rate": "56.25",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.06",
+        "exhibition_time": "6.84",
         "beforeinfo_name": "永嶋 裕一",
         "weight": "54.1kg",
-        "parts_exchange": "リング×４"
+        "parts_exchange": "リング×４",
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -1360,10 +1399,12 @@
         "boat_no_data": "51",
         "boat_2rate": "0.00",
         "boat_3rate": "16.67",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.85",
         "beforeinfo_name": "大江 純",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -1384,10 +1425,12 @@
         "boat_no_data": "13",
         "boat_2rate": "38.46",
         "boat_3rate": "61.54",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".02",
+        "exhibition_time": "6.85",
         "beforeinfo_name": "内山 文典",
-        "weight": "52.6kg"
+        "weight": "52.6kg",
+        "tilt": "-0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -1408,10 +1451,12 @@
         "boat_no_data": "47",
         "boat_2rate": "42.86",
         "boat_3rate": "71.43",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".04",
+        "exhibition_time": "6.84",
         "beforeinfo_name": "若林 義人",
-        "weight": "53.6kg"
+        "weight": "53.6kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -1432,10 +1477,12 @@
         "boat_no_data": "48",
         "boat_2rate": "28.57",
         "boat_3rate": "42.86",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".09",
+        "exhibition_time": "6.81",
         "beforeinfo_name": "黄金井 力良",
-        "weight": "54.2kg"
+        "weight": "54.2kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -1456,10 +1503,12 @@
         "boat_no_data": "23",
         "boat_2rate": "40.00",
         "boat_3rate": "60.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".13",
+        "exhibition_time": "6.85",
         "beforeinfo_name": "本吉 正樹",
-        "weight": "54.4kg"
+        "weight": "54.4kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 55,
@@ -1583,18 +1632,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:32",
+    "beforeinfo_updated_at": "2026-08-23 12:51:37",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": "F.06"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".07"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".02"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".04"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".09"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".13"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -1631,7 +1711,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "堂原 洋史",
-        "weight": "51.0kg"
+        "weight": "51.0kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 2,
@@ -1655,7 +1736,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "坂東 満",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 3,
@@ -1679,7 +1761,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "前原 大道",
-        "weight": "52.2kg"
+        "weight": "52.2kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 4,
@@ -1703,7 +1786,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "三川 昂暁",
-        "weight": "53.1kg"
+        "weight": "53.1kg",
+        "tilt": "0.0"
       },
       {
         "frame": 5,
@@ -1727,7 +1811,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "中村 楓",
-        "weight": "52.2kg"
+        "weight": "52.2kg",
+        "tilt": "0.0"
       },
       {
         "frame": 6,
@@ -1751,7 +1836,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "妹尾 忠幸",
-        "weight": "54.2kg"
+        "weight": "54.2kg",
+        "tilt": "-0.5"
       }
     ],
     "first_boat_reliability": 35,
@@ -1875,15 +1961,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:32",
+    "beforeinfo_updated_at": "2026-08-23 12:51:37",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -2167,15 +2253,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:41",
+    "beforeinfo_updated_at": "2026-08-23 12:51:45",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -2459,15 +2545,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:41",
+    "beforeinfo_updated_at": "2026-08-23 12:51:46",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -2751,15 +2837,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:43",
+    "beforeinfo_updated_at": "2026-08-23 12:51:47",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -3043,15 +3129,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:43",
+    "beforeinfo_updated_at": "2026-08-23 12:51:46",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -3335,15 +3421,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:45",
+    "beforeinfo_updated_at": "2026-08-23 12:51:45",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -3615,15 +3701,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:45",
+    "beforeinfo_updated_at": "2026-08-23 12:51:45",
     "weather": {
-      "time": "2R時点",
-      "air_temperature": "28.0℃",
+      "time": "4R時点",
+      "air_temperature": "29.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "0m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
-      "wave_height": "1cm",
+      "wave_height": "0cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -3921,12 +4007,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:49",
+    "beforeinfo_updated_at": "2026-08-23 12:51:55",
     "weather": {
-      "time": "11:17現在",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "12:38現在",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -4257,7 +4343,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:51",
+    "beforeinfo_updated_at": "2026-08-23 12:51:53",
     "weather": {
       "time": "1R時点",
       "air_temperature": "29.0℃",
@@ -4333,11 +4419,12 @@
         "boat_no_data": "31",
         "boat_2rate": "23.21",
         "boat_3rate": "42.86",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".13",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "岩津 徹郎",
         "weight": "54.0kg",
-        "tilt": "0.5"
+        "tilt": "0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -4358,11 +4445,12 @@
         "boat_no_data": "37",
         "boat_2rate": "30.77",
         "boat_3rate": "50.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".13",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "重富 伸也",
         "weight": "53.1kg",
-        "tilt": "1.0"
+        "tilt": "1.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -4383,11 +4471,12 @@
         "boat_no_data": "55",
         "boat_2rate": "44.44",
         "boat_3rate": "61.11",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".09",
+        "exhibition_time": "6.74",
         "beforeinfo_name": "垂水 悠",
         "weight": "55.7kg",
-        "tilt": "0.5"
+        "tilt": "0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -4408,12 +4497,13 @@
         "boat_no_data": "58",
         "boat_2rate": "17.86",
         "boat_3rate": "33.93",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "八木 治樹",
         "weight": "53.8kg",
         "parts_exchange": "リング×２",
-        "tilt": "0.5"
+        "tilt": "0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -4434,11 +4524,12 @@
         "boat_no_data": "53",
         "boat_2rate": "46.30",
         "boat_3rate": "61.11",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "6.85",
         "beforeinfo_name": "前田 将太",
         "weight": "54.0kg",
-        "tilt": "1.0"
+        "tilt": "1.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -4459,11 +4550,12 @@
         "boat_no_data": "12",
         "boat_2rate": "35.29",
         "boat_3rate": "52.94",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".17",
+        "exhibition_time": "6.82",
         "beforeinfo_name": "伊久間 陽優",
         "weight": "52.8kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 57,
@@ -4587,18 +4679,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:52",
+    "beforeinfo_updated_at": "2026-08-23 12:51:55",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "3m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".13"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".13"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".09"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".21"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".21"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".17"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -4632,10 +4755,12 @@
         "boat_no_data": "54",
         "boat_2rate": "25.00",
         "boat_3rate": "46.43",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".28",
+        "exhibition_time": "6.77",
         "beforeinfo_name": "倉尾 大介",
-        "weight": "53.1kg"
+        "weight": "53.1kg",
+        "tilt": "0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -4656,10 +4781,12 @@
         "boat_no_data": "56",
         "boat_2rate": "35.85",
         "boat_3rate": "58.49",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.62",
         "beforeinfo_name": "木下 大將",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -4680,10 +4807,12 @@
         "boat_no_data": "24",
         "boat_2rate": "31.48",
         "boat_3rate": "46.30",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".10",
+        "exhibition_time": "6.68",
         "beforeinfo_name": "多田 有佑",
-        "weight": "52.4kg"
+        "weight": "52.4kg",
+        "tilt": "0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -4704,10 +4833,12 @@
         "boat_no_data": "36",
         "boat_2rate": "35.09",
         "boat_3rate": "52.63",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".08",
+        "exhibition_time": "6.60",
         "beforeinfo_name": "柳内 敬太",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -4728,10 +4859,12 @@
         "boat_no_data": "17",
         "boat_2rate": "41.51",
         "boat_3rate": "52.83",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".11",
+        "exhibition_time": "6.68",
         "beforeinfo_name": "富永 夏哉人",
-        "weight": "51.5kg"
+        "weight": "51.5kg",
+        "tilt": "0.5",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -4752,10 +4885,12 @@
         "boat_no_data": "35",
         "boat_2rate": "31.48",
         "boat_3rate": "50.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".28",
+        "exhibition_time": "6.60",
         "beforeinfo_name": "佐野 優都",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.5",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 52,
@@ -4879,18 +5014,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:51",
+    "beforeinfo_updated_at": "2026-08-23 12:51:56",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
+      "time": "3R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
       "wind_speed": "1m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".28"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".16"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".10"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".08"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".11"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".28"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -4924,10 +5090,12 @@
         "boat_no_data": "18",
         "boat_2rate": "24.56",
         "boat_3rate": "36.84",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "6.63",
         "beforeinfo_name": "三木 晴斗",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -4948,10 +5116,12 @@
         "boat_no_data": "40",
         "boat_2rate": "38.89",
         "boat_3rate": "55.56",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".17",
+        "exhibition_time": "6.61",
         "beforeinfo_name": "山崎 聖司",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -4972,10 +5142,12 @@
         "boat_no_data": "71",
         "boat_2rate": "33.96",
         "boat_3rate": "60.38",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".23",
+        "exhibition_time": "6.63",
         "beforeinfo_name": "中野 希一",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -4996,10 +5168,12 @@
         "boat_no_data": "52",
         "boat_2rate": "35.85",
         "boat_3rate": "49.06",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".12",
+        "exhibition_time": "6.75",
         "beforeinfo_name": "森下 勇",
-        "weight": "54.3kg"
+        "weight": "54.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -5020,10 +5194,12 @@
         "boat_no_data": "41",
         "boat_2rate": "41.38",
         "boat_3rate": "58.62",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".09",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "松下 誉士",
-        "weight": "52.8kg"
+        "weight": "52.8kg",
+        "tilt": "0.5",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -5044,10 +5220,12 @@
         "boat_no_data": "38",
         "boat_2rate": "27.45",
         "boat_3rate": "39.22",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.81",
         "beforeinfo_name": "末永 祐輝",
-        "weight": "53.5kg"
+        "weight": "53.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 44,
@@ -5171,18 +5349,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:54",
+    "beforeinfo_updated_at": "2026-08-23 12:51:54",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".21"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".17"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".23"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".12"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".09"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".16"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -5464,12 +5673,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:55",
+    "beforeinfo_updated_at": "2026-08-23 12:51:57",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -5757,12 +5966,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:59",
+    "beforeinfo_updated_at": "2026-08-23 12:52:02",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -6049,12 +6258,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:46:59",
+    "beforeinfo_updated_at": "2026-08-23 12:52:03",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -6342,12 +6551,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:00",
+    "beforeinfo_updated_at": "2026-08-23 12:52:05",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -6634,12 +6843,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:02",
+    "beforeinfo_updated_at": "2026-08-23 12:52:06",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -6927,12 +7136,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:04",
+    "beforeinfo_updated_at": "2026-08-23 12:52:05",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -7219,12 +7428,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:05",
+    "beforeinfo_updated_at": "2026-08-23 12:52:06",
     "weather": {
-      "time": "1R時点",
-      "air_temperature": "29.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "4R時点",
+      "air_temperature": "30.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "5cm",
@@ -7523,12 +7732,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:08",
+    "beforeinfo_updated_at": "2026-08-23 12:52:12",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "12:27現在",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -7599,10 +7808,12 @@
         "boat_no_data": "21",
         "boat_2rate": "15.79",
         "boat_3rate": "36.84",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "宮崎 奏磨",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -7623,10 +7834,12 @@
         "boat_no_data": "18",
         "boat_2rate": "34.21",
         "boat_3rate": "52.63",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.70",
         "beforeinfo_name": "上原 健次郎",
-        "weight": "52.5kg"
+        "weight": "52.5kg",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -7647,10 +7860,12 @@
         "boat_no_data": "22",
         "boat_2rate": "33.33",
         "boat_3rate": "53.33",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".02",
+        "exhibition_time": "6.77",
         "beforeinfo_name": "田代 達也",
-        "weight": "53.2kg"
+        "weight": "53.2kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -7671,10 +7886,12 @@
         "boat_no_data": "28",
         "boat_2rate": "32.65",
         "boat_3rate": "61.22",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".18",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "福来 剛",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -7695,10 +7912,12 @@
         "boat_no_data": "19",
         "boat_2rate": "26.67",
         "boat_3rate": "42.22",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".02",
+        "exhibition_time": "6.93",
         "beforeinfo_name": "長尾 京志郎",
-        "weight": "53.0kg"
+        "weight": "53.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -7719,10 +7938,12 @@
         "boat_no_data": "61",
         "boat_2rate": "30.23",
         "boat_3rate": "51.16",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.71",
         "beforeinfo_name": "栗原 謙治",
-        "weight": "56.5kg"
+        "weight": "56.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 35,
@@ -7846,18 +8067,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:08",
+    "beforeinfo_updated_at": "2026-08-23 12:52:13",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
+      "time": "1R時点",
+      "air_temperature": "28.0℃",
       "weather": "曇り",
-      "wind_speed": "1m",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".21"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".07"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".02"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".18"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".02"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".05"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -7891,10 +8143,12 @@
         "boat_no_data": "14",
         "boat_2rate": "41.46",
         "boat_3rate": "60.98",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.72",
         "beforeinfo_name": "豊田 訓靖",
-        "weight": "52.8kg"
+        "weight": "52.8kg",
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -7915,10 +8169,12 @@
         "boat_no_data": "20",
         "boat_2rate": "35.42",
         "boat_3rate": "54.17",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.02",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "松下 直也",
-        "weight": "52.2kg"
+        "weight": "52.2kg",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -7939,10 +8195,12 @@
         "boat_no_data": "69",
         "boat_2rate": "43.24",
         "boat_3rate": "51.35",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.83",
         "beforeinfo_name": "齋藤 勇",
-        "weight": "52.4kg"
+        "weight": "52.4kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -7963,10 +8221,12 @@
         "boat_no_data": "24",
         "boat_2rate": "46.81",
         "boat_3rate": "59.57",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "伏島 祐介",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -7987,10 +8247,12 @@
         "boat_no_data": "10",
         "boat_2rate": "33.33",
         "boat_3rate": "43.14",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".08",
+        "exhibition_time": "6.78",
         "beforeinfo_name": "中島 昂章",
-        "weight": "52.5kg"
+        "weight": "52.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -8011,10 +8273,12 @@
         "boat_no_data": "71",
         "boat_2rate": "45.65",
         "boat_3rate": "60.87",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.01",
+        "exhibition_time": "6.80",
         "beforeinfo_name": "立間 充宏",
-        "weight": "54.5kg"
+        "weight": "54.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 47,
@@ -8138,18 +8402,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:09",
+    "beforeinfo_updated_at": "2026-08-23 12:52:14",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".19"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": "F.02"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".07"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".05"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".08"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": "F.01"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -8430,12 +8725,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:13",
+    "beforeinfo_updated_at": "2026-08-23 12:52:16",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -8723,12 +9018,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:13",
+    "beforeinfo_updated_at": "2026-08-23 12:52:14",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -9015,12 +9310,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:14",
+    "beforeinfo_updated_at": "2026-08-23 12:52:14",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -9307,12 +9602,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:18",
+    "beforeinfo_updated_at": "2026-08-23 12:52:21",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -9599,12 +9894,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:17",
+    "beforeinfo_updated_at": "2026-08-23 12:52:22",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -9891,12 +10186,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:17",
+    "beforeinfo_updated_at": "2026-08-23 12:52:23",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -10183,12 +10478,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:21",
+    "beforeinfo_updated_at": "2026-08-23 12:52:23",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -10475,12 +10770,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:22",
+    "beforeinfo_updated_at": "2026-08-23 12:52:25",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -10767,12 +11062,12 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:22",
+    "beforeinfo_updated_at": "2026-08-23 12:52:25",
     "weather": {
-      "time": "11:00現在",
-      "air_temperature": "27.0℃",
-      "weather": "曇り",
-      "wind_speed": "1m",
+      "time": "2R時点",
+      "air_temperature": "29.0℃",
+      "weather": "晴",
+      "wind_speed": "2m",
       "wind_direction": "",
       "water_temperature": "28.0℃",
       "wave_height": "3cm",
@@ -11073,9 +11368,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:27",
+    "beforeinfo_updated_at": "2026-08-23 12:52:32",
     "weather": {
-      "time": "11:37現在",
+      "time": "12:34現在",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -11408,7 +11703,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:27",
+    "beforeinfo_updated_at": "2026-08-23 12:52:32",
     "weather": {
       "time": "1R時点",
       "air_temperature": "28.0℃",
@@ -11484,10 +11779,12 @@
         "boat_no_data": "64",
         "boat_2rate": "30.96",
         "boat_3rate": "48.73",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.69",
         "beforeinfo_name": "木幡 純也",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 2,
@@ -11508,10 +11805,12 @@
         "boat_no_data": "73",
         "boat_2rate": "31.22",
         "boat_3rate": "44.88",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".03",
+        "exhibition_time": "6.75",
         "beforeinfo_name": "高橋 正男",
-        "weight": "52.1kg"
+        "weight": "52.1kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 3,
@@ -11532,10 +11831,12 @@
         "boat_no_data": "53",
         "boat_2rate": "34.48",
         "boat_3rate": "51.72",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".04",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "安河内 健",
-        "weight": "54.4kg"
+        "weight": "54.4kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 4,
@@ -11556,10 +11857,13 @@
         "boat_no_data": "63",
         "boat_2rate": "35.20",
         "boat_3rate": "55.10",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".06",
+        "exhibition_time": "6.68",
         "beforeinfo_name": "浅井 翼",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "parts_exchange": "リング×１",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -11580,10 +11884,12 @@
         "boat_no_data": "24",
         "boat_2rate": "37.75",
         "boat_3rate": "50.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".20",
+        "exhibition_time": "6.69",
         "beforeinfo_name": "金子 和之",
-        "weight": "52.7kg"
+        "weight": "52.7kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -11604,10 +11910,12 @@
         "boat_no_data": "43",
         "boat_2rate": "30.89",
         "boat_3rate": "49.21",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".15",
+        "exhibition_time": "6.75",
         "beforeinfo_name": "花田 凱成",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 46,
@@ -11731,9 +12039,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:26",
+    "beforeinfo_updated_at": "2026-08-23 12:52:33",
     "weather": {
-      "time": "1R時点",
+      "time": "2R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -11742,7 +12050,38 @@
       "wave_height": "2cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 3,
+        "st": ".04"
+      },
+      {
+        "course": 2,
+        "boat": 1,
+        "st": ".07"
+      },
+      {
+        "course": 3,
+        "boat": 2,
+        "st": ".03"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".06"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".20"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".15"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -11776,10 +12115,13 @@
         "boat_no_data": "28",
         "boat_2rate": "28.57",
         "boat_3rate": "48.15",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "北川 潤二",
-        "weight": "56.8kg"
+        "weight": "56.8kg",
+        "tilt": "-0.5",
+        "parts_exchange": "ピストン×２ / リング×４ / キャブ / シリンダ",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -11800,10 +12142,12 @@
         "boat_no_data": "60",
         "boat_2rate": "32.02",
         "boat_3rate": "47.78",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".08",
+        "exhibition_time": "6.67",
         "beforeinfo_name": "鈴木 猛",
-        "weight": "53.3kg"
+        "weight": "53.3kg",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -11824,10 +12168,12 @@
         "boat_no_data": "74",
         "boat_2rate": "28.72",
         "boat_3rate": "45.21",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.71",
         "beforeinfo_name": "山口 広樹",
-        "weight": "53.1kg"
+        "weight": "53.1kg",
+        "tilt": "-0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -11848,10 +12194,12 @@
         "boat_no_data": "55",
         "boat_2rate": "25.93",
         "boat_3rate": "40.74",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.70",
         "beforeinfo_name": "山田 佑樹",
-        "weight": "55.0kg"
+        "weight": "55.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -11872,10 +12220,12 @@
         "boat_no_data": "57",
         "boat_2rate": "35.32",
         "boat_3rate": "47.76",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.03",
+        "exhibition_time": "6.71",
         "beforeinfo_name": "林 祐介",
-        "weight": "55.0kg"
+        "weight": "55.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -11896,10 +12246,12 @@
         "boat_no_data": "56",
         "boat_2rate": "34.34",
         "boat_3rate": "49.49",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".04",
+        "exhibition_time": "6.64",
         "beforeinfo_name": "大西 賢",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 60,
@@ -12023,9 +12375,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:30",
+    "beforeinfo_updated_at": "2026-08-23 12:52:34",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -12034,7 +12386,38 @@
       "wave_height": "2cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".05"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".08"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".05"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".19"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": "F.03"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".04"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -12315,9 +12698,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:30",
+    "beforeinfo_updated_at": "2026-08-23 12:52:35",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -12607,9 +12990,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:32",
+    "beforeinfo_updated_at": "2026-08-23 12:52:33",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -12899,9 +13282,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:34",
+    "beforeinfo_updated_at": "2026-08-23 12:52:40",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -13191,9 +13574,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:36",
+    "beforeinfo_updated_at": "2026-08-23 12:52:43",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -13483,9 +13866,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:36",
+    "beforeinfo_updated_at": "2026-08-23 12:52:42",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -13775,9 +14158,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:40",
+    "beforeinfo_updated_at": "2026-08-23 12:52:42",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -14067,9 +14450,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:40",
+    "beforeinfo_updated_at": "2026-08-23 12:52:44",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -14359,9 +14742,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:43",
+    "beforeinfo_updated_at": "2026-08-23 12:52:45",
     "weather": {
-      "time": "1R時点",
+      "time": "3R時点",
       "air_temperature": "28.0℃",
       "weather": "晴",
       "wind_speed": "4m",
@@ -14639,7 +15022,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:45",
+    "beforeinfo_updated_at": "2026-08-23 12:52:49",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -14919,7 +15302,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:46",
+    "beforeinfo_updated_at": "2026-08-23 12:52:51",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -15199,7 +15582,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:44",
+    "beforeinfo_updated_at": "2026-08-23 12:52:50",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -15479,7 +15862,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:50",
+    "beforeinfo_updated_at": "2026-08-23 12:52:53",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -15759,7 +16142,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:49",
+    "beforeinfo_updated_at": "2026-08-23 12:52:53",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -16039,7 +16422,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:53",
+    "beforeinfo_updated_at": "2026-08-23 12:52:54",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -16319,7 +16702,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:54",
+    "beforeinfo_updated_at": "2026-08-23 12:52:58",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -16599,7 +16982,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:53",
+    "beforeinfo_updated_at": "2026-08-23 12:53:00",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -16879,7 +17262,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:55",
+    "beforeinfo_updated_at": "2026-08-23 12:53:01",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -17159,7 +17542,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:59",
+    "beforeinfo_updated_at": "2026-08-23 12:53:04",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -17439,7 +17822,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:47:59",
+    "beforeinfo_updated_at": "2026-08-23 12:53:04",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -17719,7 +18102,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:02",
+    "beforeinfo_updated_at": "2026-08-23 12:53:04",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -18023,15 +18406,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:02",
+    "beforeinfo_updated_at": "2026-08-23 12:53:07",
     "weather": {
-      "time": "11:30現在",
+      "time": "12:30現在",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": [
@@ -18358,7 +18741,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:03",
+    "beforeinfo_updated_at": "2026-08-23 12:53:09",
     "weather": {
       "time": "1R時点",
       "air_temperature": "29.0℃",
@@ -18694,7 +19077,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:05",
+    "beforeinfo_updated_at": "2026-08-23 12:53:10",
     "weather": {
       "time": "2R時点",
       "air_temperature": "29.0℃",
@@ -19029,7 +19412,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:08",
+    "beforeinfo_updated_at": "2026-08-23 12:53:14",
     "weather": {
       "time": "3R時点",
       "air_temperature": "30.0℃",
@@ -19105,10 +19488,12 @@
         "boat_no_data": "62",
         "boat_2rate": "29.73",
         "boat_3rate": "51.35",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "田中 宏典",
-        "weight": "53.2kg"
+        "weight": "53.2kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -19129,10 +19514,12 @@
         "boat_no_data": "27",
         "boat_2rate": "28.57",
         "boat_3rate": "42.86",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".15",
+        "exhibition_time": "6.71",
         "beforeinfo_name": "川崎 智稔",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 3,
@@ -19153,10 +19540,12 @@
         "boat_no_data": "74",
         "boat_2rate": "44.74",
         "boat_3rate": "65.79",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.84",
         "beforeinfo_name": "一柳 和孝",
-        "weight": "53.3kg"
+        "weight": "53.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 4,
@@ -19177,10 +19566,12 @@
         "boat_no_data": "25",
         "boat_2rate": "30.30",
         "boat_3rate": "39.39",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".11",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "馬野 耀",
-        "weight": "54.3kg"
+        "weight": "54.3kg",
+        "tilt": "-0.5",
+        "exhibition_course": "5"
       },
       {
         "frame": 5,
@@ -19201,10 +19592,12 @@
         "boat_no_data": "50",
         "boat_2rate": "30.56",
         "boat_3rate": "38.89",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".12",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "登玉 隼百",
-        "weight": "52.9kg"
+        "weight": "52.9kg",
+        "tilt": "-0.5",
+        "exhibition_course": "6"
       },
       {
         "frame": 6,
@@ -19225,11 +19618,13 @@
         "boat_no_data": "65",
         "boat_2rate": "41.94",
         "boat_3rate": "64.52",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".11",
+        "exhibition_time": "6.81",
         "beforeinfo_name": "赤岩 善生",
         "weight": "53.6kg",
-        "parts_exchange": "ピストン×１ / リング×４"
+        "parts_exchange": "ピストン×１ / リング×４",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       }
     ],
     "first_boat_reliability": 47,
@@ -19353,18 +19748,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:10",
+    "beforeinfo_updated_at": "2026-08-23 12:53:14",
     "weather": {
-      "time": "3R時点",
+      "time": "4R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
+      "water_temperature": "32.0℃",
       "wave_height": "1cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".19"
+      },
+      {
+        "course": 2,
+        "boat": 6,
+        "st": ".11"
+      },
+      {
+        "course": 3,
+        "boat": 2,
+        "st": ".15"
+      },
+      {
+        "course": 4,
+        "boat": 3,
+        "st": ".07"
+      },
+      {
+        "course": 5,
+        "boat": 4,
+        "st": ".11"
+      },
+      {
+        "course": 6,
+        "boat": 5,
+        "st": ".12"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -19398,10 +19824,12 @@
         "boat_no_data": "16",
         "boat_2rate": "22.22",
         "boat_3rate": "41.67",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".15",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "佐藤 航",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -19422,10 +19850,12 @@
         "boat_no_data": "69",
         "boat_2rate": "32.43",
         "boat_3rate": "48.65",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".29",
+        "exhibition_time": "6.75",
         "beforeinfo_name": "永田 義紘",
-        "weight": "52.1kg"
+        "weight": "52.1kg",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -19446,10 +19876,12 @@
         "boat_no_data": "21",
         "boat_2rate": "37.14",
         "boat_3rate": "48.57",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".26",
+        "exhibition_time": "6.72",
         "beforeinfo_name": "町田 洸希",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -19470,10 +19902,12 @@
         "boat_no_data": "68",
         "boat_2rate": "29.03",
         "boat_3rate": "35.48",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "藤原 孝斗",
-        "weight": "54.9kg"
+        "weight": "54.9kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -19494,10 +19928,12 @@
         "boat_no_data": "67",
         "boat_2rate": "32.43",
         "boat_3rate": "48.65",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".08",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "杉山 裕也",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -19518,10 +19954,12 @@
         "boat_no_data": "26",
         "boat_2rate": "42.86",
         "boat_3rate": "51.43",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".10",
+        "exhibition_time": "6.72",
         "beforeinfo_name": "渡辺 浩司",
-        "weight": "52.1kg"
+        "weight": "52.1kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 61,
@@ -19645,18 +20083,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:12",
+    "beforeinfo_updated_at": "2026-08-23 12:53:13",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".15"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".29"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".26"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".07"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".08"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".10"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -19938,15 +20407,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:12",
+    "beforeinfo_updated_at": "2026-08-23 12:53:16",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -20230,15 +20699,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:11",
+    "beforeinfo_updated_at": "2026-08-23 12:53:17",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -20522,15 +20991,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:15",
+    "beforeinfo_updated_at": "2026-08-23 12:53:18",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -20814,15 +21283,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:16",
+    "beforeinfo_updated_at": "2026-08-23 12:53:22",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -21106,15 +21575,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:18",
+    "beforeinfo_updated_at": "2026-08-23 12:53:22",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -21398,15 +21867,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:21",
+    "beforeinfo_updated_at": "2026-08-23 12:53:24",
     "weather": {
-      "time": "3R時点",
+      "time": "5R時点",
       "air_temperature": "30.0℃",
       "weather": "晴",
-      "wind_speed": "3m",
+      "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "31.0℃",
-      "wave_height": "1cm",
+      "water_temperature": "32.0℃",
+      "wave_height": "2cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -21703,9 +22172,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:21",
+    "beforeinfo_updated_at": "2026-08-23 12:53:25",
     "weather": {
-      "time": "11:25現在",
+      "time": "12:27現在",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -22038,7 +22507,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:22",
+    "beforeinfo_updated_at": "2026-08-23 12:53:27",
     "weather": {
       "time": "1R時点",
       "air_temperature": "31.0℃",
@@ -22373,7 +22842,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:25",
+    "beforeinfo_updated_at": "2026-08-23 12:53:27",
     "weather": {
       "time": "2R時点",
       "air_temperature": "32.0℃",
@@ -22449,11 +22918,12 @@
         "boat_no_data": "37",
         "boat_2rate": "22.97",
         "boat_3rate": "36.49",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.71",
         "beforeinfo_name": "藤原 早菜",
         "weight": "46.5kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -22474,11 +22944,12 @@
         "boat_no_data": "28",
         "boat_2rate": "23.33",
         "boat_3rate": "34.67",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".20",
+        "exhibition_time": "6.75",
         "beforeinfo_name": "渡邉 真奈美",
         "weight": "46.5kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -22499,11 +22970,12 @@
         "boat_no_data": "67",
         "boat_2rate": "27.27",
         "boat_3rate": "43.51",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "南 彩寧",
         "weight": "49.6kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -22524,11 +22996,12 @@
         "boat_no_data": "48",
         "boat_2rate": "31.36",
         "boat_3rate": "47.34",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".06",
+        "exhibition_time": "6.66",
         "beforeinfo_name": "海野 ゆかり",
         "weight": "45.0kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -22549,11 +23022,12 @@
         "boat_no_data": "29",
         "boat_2rate": "34.68",
         "boat_3rate": "50.87",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.04",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "高田 綾",
         "weight": "45.5kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -22574,11 +23048,12 @@
         "boat_no_data": "31",
         "boat_2rate": "37.36",
         "boat_3rate": "55.17",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.04",
+        "exhibition_time": "6.72",
         "beforeinfo_name": "中西 月輝",
         "weight": "50.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 48,
@@ -22702,9 +23177,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:25",
+    "beforeinfo_updated_at": "2026-08-23 12:53:30",
     "weather": {
-      "time": "2R時点",
+      "time": "3R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -22713,7 +23188,38 @@
       "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".16"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".20"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".19"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".06"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": "F.04"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": "F.04"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -22747,10 +23253,12 @@
         "boat_no_data": "25",
         "boat_2rate": "29.81",
         "boat_3rate": "47.83",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "瀧川 千依",
-        "weight": "47.1kg"
+        "weight": "47.1kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -22771,10 +23279,12 @@
         "boat_no_data": "16",
         "boat_2rate": "22.98",
         "boat_3rate": "40.99",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.77",
         "beforeinfo_name": "土屋 南",
-        "weight": "47.0kg"
+        "weight": "47.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -22795,10 +23305,12 @@
         "boat_no_data": "70",
         "boat_2rate": "32.95",
         "boat_3rate": "52.84",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "福岡 泉水",
-        "weight": "50.3kg"
+        "weight": "50.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -22819,10 +23331,12 @@
         "boat_no_data": "53",
         "boat_2rate": "25.97",
         "boat_3rate": "44.81",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".17",
+        "exhibition_time": "6.76",
         "beforeinfo_name": "藤田 美代",
-        "weight": "44.5kg"
+        "weight": "44.5kg",
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -22843,10 +23357,12 @@
         "boat_no_data": "49",
         "boat_2rate": "50.00",
         "boat_3rate": "64.71",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".14",
+        "exhibition_time": "6.65",
         "beforeinfo_name": "戸田 海咲音",
-        "weight": "50.5kg"
+        "weight": "50.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       },
       {
         "frame": 6,
@@ -22867,10 +23383,12 @@
         "boat_no_data": "65",
         "boat_2rate": "34.86",
         "boat_3rate": "56.57",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".02",
+        "exhibition_time": "6.65",
         "beforeinfo_name": "倉持 莉々",
-        "weight": "47.2kg"
+        "weight": "47.2kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       }
     ],
     "first_boat_reliability": 35,
@@ -22994,9 +23512,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:27",
+    "beforeinfo_updated_at": "2026-08-23 12:53:33",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -23005,7 +23523,38 @@
       "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".19"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".16"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".21"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".17"
+      },
+      {
+        "course": 5,
+        "boat": 6,
+        "st": ".02"
+      },
+      {
+        "course": 6,
+        "boat": 5,
+        "st": ".14"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -23042,7 +23591,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "小野 桜",
-        "weight": "47.0kg"
+        "weight": "47.0kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 2,
@@ -23066,7 +23616,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "前原 哉",
-        "weight": "44.5kg"
+        "weight": "44.5kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 3,
@@ -23090,7 +23641,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "中曽 瑠華",
-        "weight": "52.1kg"
+        "weight": "52.1kg",
+        "tilt": "0.0"
       },
       {
         "frame": 4,
@@ -23114,7 +23666,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "真子 奈津実",
-        "weight": "47.1kg"
+        "weight": "47.1kg",
+        "tilt": "0.0"
       },
       {
         "frame": 5,
@@ -23138,7 +23691,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "星田 夢結",
-        "weight": "49.9kg"
+        "weight": "49.9kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 6,
@@ -23162,7 +23716,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "堀之内紀代子",
-        "weight": "47.0kg"
+        "weight": "47.0kg",
+        "tilt": "0.0"
       }
     ],
     "first_boat_reliability": 52,
@@ -23286,9 +23841,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:29",
+    "beforeinfo_updated_at": "2026-08-23 12:53:35",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -23578,9 +24133,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:30",
+    "beforeinfo_updated_at": "2026-08-23 12:53:35",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -23870,9 +24425,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:32",
+    "beforeinfo_updated_at": "2026-08-23 12:53:35",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -24162,9 +24717,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:35",
+    "beforeinfo_updated_at": "2026-08-23 12:53:36",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -24454,9 +25009,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:33",
+    "beforeinfo_updated_at": "2026-08-23 12:53:38",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -24746,9 +25301,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:35",
+    "beforeinfo_updated_at": "2026-08-23 12:53:42",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -25038,9 +25593,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:39",
+    "beforeinfo_updated_at": "2026-08-23 12:53:43",
     "weather": {
-      "time": "2R時点",
+      "time": "4R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "3m",
@@ -25342,9 +25897,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:38",
+    "beforeinfo_updated_at": "2026-08-23 12:53:45",
     "weather": {
-      "time": "11:10現在",
+      "time": "12:14現在",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "1m",
@@ -25677,7 +26232,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:40",
+    "beforeinfo_updated_at": "2026-08-23 12:53:46",
     "weather": {
       "time": "1R時点",
       "air_temperature": "30.0℃",
@@ -26012,7 +26567,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:43",
+    "beforeinfo_updated_at": "2026-08-23 12:53:45",
     "weather": {
       "time": "2R時点",
       "air_temperature": "30.0℃",
@@ -26347,7 +26902,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:43",
+    "beforeinfo_updated_at": "2026-08-23 12:53:49",
     "weather": {
       "time": "3R時点",
       "air_temperature": "30.0℃",
@@ -26683,7 +27238,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:45",
+    "beforeinfo_updated_at": "2026-08-23 12:53:50",
     "weather": {
       "time": "4R時点",
       "air_temperature": "31.0℃",
@@ -27018,7 +27573,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:48",
+    "beforeinfo_updated_at": "2026-08-23 12:53:51",
     "weather": {
       "time": "5R時点",
       "air_temperature": "32.0℃",
@@ -27354,7 +27909,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:48",
+    "beforeinfo_updated_at": "2026-08-23 12:53:53",
     "weather": {
       "time": "6R時点",
       "air_temperature": "32.0℃",
@@ -27430,11 +27985,12 @@
         "boat_no_data": "26",
         "boat_2rate": "29.10",
         "boat_3rate": "43.92",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".09",
+        "exhibition_time": "6.93",
         "beforeinfo_name": "松竹 大輔",
         "weight": "52.0kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -27455,11 +28011,12 @@
         "boat_no_data": "63",
         "boat_2rate": "30.21",
         "boat_3rate": "50.52",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".06",
+        "exhibition_time": "6.97",
         "beforeinfo_name": "乙津 康志",
         "weight": "52.0kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -27480,11 +28037,12 @@
         "boat_no_data": "58",
         "boat_2rate": "36.32",
         "boat_3rate": "56.32",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.93",
         "beforeinfo_name": "幸野 史明",
         "weight": "52.0kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -27505,11 +28063,12 @@
         "boat_no_data": "56",
         "boat_2rate": "31.75",
         "boat_3rate": "44.97",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".06",
+        "exhibition_time": "7.04",
         "beforeinfo_name": "鳥居塚 孝博",
         "weight": "52.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -27530,11 +28089,12 @@
         "boat_no_data": "54",
         "boat_2rate": "37.23",
         "boat_3rate": "57.45",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".12",
+        "exhibition_time": "7.05",
         "beforeinfo_name": "大井 清貴",
         "weight": "54.7kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -27555,11 +28115,12 @@
         "boat_no_data": "12",
         "boat_2rate": "38.86",
         "boat_3rate": "52.85",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".15",
+        "exhibition_time": "6.91",
         "beforeinfo_name": "山下 和彦",
         "weight": "52.0kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 47,
@@ -27683,9 +28244,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:50",
+    "beforeinfo_updated_at": "2026-08-23 12:53:56",
     "weather": {
-      "time": "6R時点",
+      "time": "7R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "1m",
@@ -27694,7 +28255,38 @@
       "wave_height": "1cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".09"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".06"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".05"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".06"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".12"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".15"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -27728,10 +28320,12 @@
         "boat_no_data": "15",
         "boat_2rate": "38.30",
         "boat_3rate": "57.98",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.95",
         "beforeinfo_name": "加木 郁",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "-0.5",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -27776,10 +28370,13 @@
         "boat_no_data": "74",
         "boat_2rate": "35.53",
         "boat_3rate": "54.31",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".23",
+        "exhibition_time": "7.00",
         "beforeinfo_name": "富澤 祐作",
-        "weight": "54.5kg"
+        "weight": "54.5kg",
+        "tilt": "0.0",
+        "parts_exchange": "リング×２",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -27800,10 +28397,12 @@
         "boat_no_data": "71",
         "boat_2rate": "26.20",
         "boat_3rate": "43.32",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "7.00",
         "beforeinfo_name": "南 佑典",
-        "weight": "51.0kg"
+        "weight": "51.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -27824,10 +28423,12 @@
         "boat_no_data": "23",
         "boat_2rate": "32.81",
         "boat_3rate": "58.33",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".18",
+        "exhibition_time": "6.98",
         "beforeinfo_name": "山下 心一",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -27848,10 +28449,12 @@
         "boat_no_data": "46",
         "boat_2rate": "30.21",
         "boat_3rate": "44.79",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".17",
+        "exhibition_time": "7.08",
         "beforeinfo_name": "正木 聖賢",
-        "weight": "54.7kg"
+        "weight": "54.7kg",
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       }
     ],
     "first_boat_reliability": 48,
@@ -27975,9 +28578,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:52",
+    "beforeinfo_updated_at": "2026-08-23 12:53:56",
     "weather": {
-      "time": "6R時点",
+      "time": "8R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "1m",
@@ -27986,7 +28589,33 @@
       "wave_height": "1cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".19"
+      },
+      {
+        "course": 2,
+        "boat": 6,
+        "st": ".17"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".23"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".21"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".18"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -28023,7 +28652,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "木山 和幸",
-        "weight": "50.5kg"
+        "weight": "50.5kg",
+        "tilt": "0.0"
       },
       {
         "frame": 2,
@@ -28047,7 +28677,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "中北 将史",
-        "weight": "52.1kg"
+        "weight": "52.1kg",
+        "tilt": "0.0"
       },
       {
         "frame": 3,
@@ -28071,7 +28702,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "柳瀬 興志",
-        "weight": "58.3kg"
+        "weight": "58.3kg",
+        "tilt": "0.0"
       },
       {
         "frame": 4,
@@ -28095,7 +28727,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "岡部 貴司",
-        "weight": "55.4kg"
+        "weight": "55.4kg",
+        "tilt": "0.0"
       },
       {
         "frame": 5,
@@ -28119,7 +28752,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "竹下 大樹",
-        "weight": "53.9kg"
+        "weight": "53.9kg",
+        "tilt": "0.0"
       },
       {
         "frame": 6,
@@ -28143,7 +28777,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "品川 賢次",
-        "weight": "55.0kg"
+        "weight": "55.0kg",
+        "tilt": "-0.5"
       }
     ],
     "first_boat_reliability": 52,
@@ -28267,9 +28902,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:51",
+    "beforeinfo_updated_at": "2026-08-23 12:53:57",
     "weather": {
-      "time": "6R時点",
+      "time": "8R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "1m",
@@ -28559,9 +29194,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:53",
+    "beforeinfo_updated_at": "2026-08-23 12:54:01",
     "weather": {
-      "time": "6R時点",
+      "time": "8R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "1m",
@@ -28851,9 +29486,9 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:58",
+    "beforeinfo_updated_at": "2026-08-23 12:54:02",
     "weather": {
-      "time": "6R時点",
+      "time": "8R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
       "wind_speed": "1m",
@@ -29131,7 +29766,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:57",
+    "beforeinfo_updated_at": "2026-08-23 12:54:01",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -29411,7 +30046,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:48:59",
+    "beforeinfo_updated_at": "2026-08-23 12:54:05",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -29691,7 +30326,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:00",
+    "beforeinfo_updated_at": "2026-08-23 12:54:05",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -29971,7 +30606,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:01",
+    "beforeinfo_updated_at": "2026-08-23 12:54:05",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -30251,7 +30886,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:01",
+    "beforeinfo_updated_at": "2026-08-23 12:54:10",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -30531,7 +31166,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:06",
+    "beforeinfo_updated_at": "2026-08-23 12:54:11",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -30811,7 +31446,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:07",
+    "beforeinfo_updated_at": "2026-08-23 12:54:10",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -31091,7 +31726,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:09",
+    "beforeinfo_updated_at": "2026-08-23 12:54:14",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -31371,7 +32006,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:10",
+    "beforeinfo_updated_at": "2026-08-23 12:54:15",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -31651,7 +32286,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:10",
+    "beforeinfo_updated_at": "2026-08-23 12:54:14",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -31931,7 +32566,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:09",
+    "beforeinfo_updated_at": "2026-08-23 12:54:18",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -32211,7 +32846,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:16",
+    "beforeinfo_updated_at": "2026-08-23 12:54:19",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -32491,7 +33126,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:16",
+    "beforeinfo_updated_at": "2026-08-23 12:54:21",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -32771,7 +33406,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:18",
+    "beforeinfo_updated_at": "2026-08-23 12:54:22",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -33051,7 +33686,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:19",
+    "beforeinfo_updated_at": "2026-08-23 12:54:25",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -33331,7 +33966,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:20",
+    "beforeinfo_updated_at": "2026-08-23 12:54:24",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -33611,7 +34246,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:20",
+    "beforeinfo_updated_at": "2026-08-23 12:54:29",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -33891,7 +34526,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:24",
+    "beforeinfo_updated_at": "2026-08-23 12:54:29",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -34171,7 +34806,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:26",
+    "beforeinfo_updated_at": "2026-08-23 12:54:29",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -34451,7 +35086,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:28",
+    "beforeinfo_updated_at": "2026-08-23 12:54:31",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -34731,7 +35366,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:29",
+    "beforeinfo_updated_at": "2026-08-23 12:54:33",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -35011,7 +35646,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:30",
+    "beforeinfo_updated_at": "2026-08-23 12:54:34",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -35291,7 +35926,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:29",
+    "beforeinfo_updated_at": "2026-08-23 12:54:39",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -35571,7 +36206,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:35",
+    "beforeinfo_updated_at": "2026-08-23 12:54:39",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -35875,14 +36510,14 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:35",
+    "beforeinfo_updated_at": "2026-08-23 12:54:40",
     "weather": {
-      "time": "11:22現在",
-      "air_temperature": "34.8℃",
+      "time": "12:30現在",
+      "air_temperature": "35.4℃",
       "weather": "晴",
       "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "32.2℃",
+      "water_temperature": "32.6℃",
       "wave_height": "4cm",
       "stabilizer": ""
     },
@@ -36210,7 +36845,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:38",
+    "beforeinfo_updated_at": "2026-08-23 12:54:42",
     "weather": {
       "time": "1R時点",
       "air_temperature": "31.2℃",
@@ -36545,7 +37180,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:38",
+    "beforeinfo_updated_at": "2026-08-23 12:54:42",
     "weather": {
       "time": "2R時点",
       "air_temperature": "31.3℃",
@@ -36881,7 +37516,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:39",
+    "beforeinfo_updated_at": "2026-08-23 12:54:44",
     "weather": {
       "time": "3R時点",
       "air_temperature": "32.0℃",
@@ -37216,7 +37851,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:40",
+    "beforeinfo_updated_at": "2026-08-23 12:54:49",
     "weather": {
       "time": "4R時点",
       "air_temperature": "33.2℃",
@@ -37551,7 +38186,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:43",
+    "beforeinfo_updated_at": "2026-08-23 12:54:49",
     "weather": {
       "time": "5R時点",
       "air_temperature": "33.9℃",
@@ -37886,7 +38521,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:43",
+    "beforeinfo_updated_at": "2026-08-23 12:54:49",
     "weather": {
       "time": "6R時点",
       "air_temperature": "34.6℃",
@@ -38221,7 +38856,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:47",
+    "beforeinfo_updated_at": "2026-08-23 12:54:50",
     "weather": {
       "time": "7R時点",
       "air_temperature": "34.8℃",
@@ -38297,11 +38932,12 @@
         "boat_no_data": "158",
         "boat_2rate": "29.41",
         "boat_3rate": "45.88",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".11",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "平石 和男",
         "weight": "50.5kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -38322,11 +38958,12 @@
         "boat_no_data": "159",
         "boat_2rate": "47.56",
         "boat_3rate": "64.63",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".01",
+        "exhibition_time": "6.75",
         "beforeinfo_name": "溝口 海義也",
         "weight": "53.8kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -38347,11 +38984,12 @@
         "boat_no_data": "116",
         "boat_2rate": "32.97",
         "boat_3rate": "50.55",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".31",
+        "exhibition_time": "6.77",
         "beforeinfo_name": "小野 京平",
         "weight": "55.5kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -38372,11 +39010,12 @@
         "boat_no_data": "130",
         "boat_2rate": "24.00",
         "boat_3rate": "40.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".04",
+        "exhibition_time": "6.80",
         "beforeinfo_name": "本岡 勝利",
         "weight": "52.1kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -38397,11 +39036,12 @@
         "boat_no_data": "121",
         "boat_2rate": "33.33",
         "boat_3rate": "51.72",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".30",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "西村 仁吾",
         "weight": "53.7kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "6"
       },
       {
         "frame": 6,
@@ -38422,11 +39062,12 @@
         "boat_no_data": "148",
         "boat_2rate": "23.16",
         "boat_3rate": "38.95",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".06",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "佐々木 和伸",
         "weight": "55.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "5"
       }
     ],
     "first_boat_reliability": 39,
@@ -38550,18 +39191,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:47",
+    "beforeinfo_updated_at": "2026-08-23 12:54:52",
     "weather": {
-      "time": "7R時点",
+      "time": "8R時点",
       "air_temperature": "34.8℃",
       "weather": "晴",
-      "wind_speed": "4m",
+      "wind_speed": "3m",
       "wind_direction": "",
-      "water_temperature": "32.2℃",
-      "wave_height": "4cm",
+      "water_temperature": "32.3℃",
+      "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".11"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".01"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".31"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".04"
+      },
+      {
+        "course": 5,
+        "boat": 6,
+        "st": ".06"
+      },
+      {
+        "course": 6,
+        "boat": 5,
+        "st": ".30"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -38595,10 +39267,12 @@
         "boat_no_data": "131",
         "boat_2rate": "31.40",
         "boat_3rate": "50.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.77",
         "beforeinfo_name": "眞鳥 章太",
-        "weight": "52.9kg"
+        "weight": "52.9kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -38619,10 +39293,12 @@
         "boat_no_data": "122",
         "boat_2rate": "35.56",
         "boat_3rate": "56.67",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.73",
         "beforeinfo_name": "山本 隆幸",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -38643,10 +39319,12 @@
         "boat_no_data": "134",
         "boat_2rate": "34.83",
         "boat_3rate": "53.93",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".12",
+        "exhibition_time": "6.82",
         "beforeinfo_name": "川添 英正",
-        "weight": "52.6kg"
+        "weight": "52.6kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -38667,10 +39345,12 @@
         "boat_no_data": "170",
         "boat_2rate": "35.87",
         "boat_3rate": "53.26",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".22",
+        "exhibition_time": "6.79",
         "beforeinfo_name": "橋本 年光",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -38691,10 +39371,12 @@
         "boat_no_data": "164",
         "boat_2rate": "35.23",
         "boat_3rate": "48.86",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".29",
+        "exhibition_time": "6.71",
         "beforeinfo_name": "小林 礼央",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -38715,10 +39397,12 @@
         "boat_no_data": "133",
         "boat_2rate": "31.71",
         "boat_3rate": "47.56",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.78",
         "beforeinfo_name": "池永 太",
-        "weight": "53.5kg"
+        "weight": "53.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 51,
@@ -38842,18 +39526,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:48",
+    "beforeinfo_updated_at": "2026-08-23 12:54:52",
     "weather": {
-      "time": "7R時点",
-      "air_temperature": "34.8℃",
+      "time": "9R時点",
+      "air_temperature": "35.4℃",
       "weather": "晴",
       "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "32.2℃",
+      "water_temperature": "32.6℃",
       "wave_height": "4cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".07"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".16"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".12"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".22"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".29"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".16"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -38890,7 +39605,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "大平 誉史明",
-        "weight": "50.5kg"
+        "weight": "50.5kg",
+        "tilt": "0.0"
       },
       {
         "frame": 2,
@@ -38914,7 +39630,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "古川 健",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0"
       },
       {
         "frame": 3,
@@ -38938,7 +39655,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "浅見 昌克",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0"
       },
       {
         "frame": 4,
@@ -38962,7 +39680,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "吉田 光",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 5,
@@ -38986,7 +39705,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "林 美憲",
-        "weight": "52.5kg"
+        "weight": "52.5kg",
+        "tilt": "0.0"
       },
       {
         "frame": 6,
@@ -39010,7 +39730,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "中渡 修作",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.5"
       }
     ],
     "first_boat_reliability": 46,
@@ -39134,14 +39855,14 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:50",
+    "beforeinfo_updated_at": "2026-08-23 12:54:57",
     "weather": {
-      "time": "7R時点",
-      "air_temperature": "34.8℃",
+      "time": "9R時点",
+      "air_temperature": "35.4℃",
       "weather": "晴",
       "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "32.2℃",
+      "water_temperature": "32.6℃",
       "wave_height": "4cm",
       "stabilizer": ""
     },
@@ -39426,14 +40147,14 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:53",
+    "beforeinfo_updated_at": "2026-08-23 12:55:00",
     "weather": {
-      "time": "7R時点",
-      "air_temperature": "34.8℃",
+      "time": "9R時点",
+      "air_temperature": "35.4℃",
       "weather": "晴",
       "wind_speed": "4m",
       "wind_direction": "",
-      "water_temperature": "32.2℃",
+      "water_temperature": "32.6℃",
       "wave_height": "4cm",
       "stabilizer": ""
     },
@@ -39471,11 +40192,12 @@
         "boat_no_data": "167",
         "boat_2rate": "44.09",
         "boat_3rate": "58.06",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".11",
+        "exhibition_time": "6.88",
         "beforeinfo_name": "大澤 風葵",
         "weight": "51.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -39496,11 +40218,12 @@
         "boat_no_data": "171",
         "boat_2rate": "25.58",
         "boat_3rate": "34.88",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".24",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "杉田 篤光",
         "weight": "52.4kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -39521,11 +40244,12 @@
         "boat_no_data": "139",
         "boat_2rate": "34.41",
         "boat_3rate": "50.54",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".38",
+        "exhibition_time": "6.97",
         "beforeinfo_name": "多羅尾 達之",
         "weight": "51.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -39546,11 +40270,12 @@
         "boat_no_data": "101",
         "boat_2rate": "32.61",
         "boat_3rate": "47.83",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".34",
+        "exhibition_time": "6.93",
         "beforeinfo_name": "常盤 海心",
         "weight": "53.3kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -39571,12 +40296,13 @@
         "boat_no_data": "111",
         "boat_2rate": "34.38",
         "boat_3rate": "50.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".13",
+        "exhibition_time": "6.94",
         "beforeinfo_name": "柴田 友和",
         "weight": "51.5kg",
         "tilt": "0.0",
-        "parts_exchange": "リング×１"
+        "parts_exchange": "リング×１",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -39597,11 +40323,12 @@
         "boat_no_data": "148",
         "boat_2rate": "39.36",
         "boat_3rate": "62.77",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "吉原 快誓",
         "weight": "52.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 59,
@@ -39725,10 +40452,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:51",
+    "beforeinfo_updated_at": "2026-08-23 12:54:59",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "12:23現在",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -39736,7 +40463,38 @@
       "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".11"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".24"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".38"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".34"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".13"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".07"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -39770,10 +40528,12 @@
         "boat_no_data": "170",
         "boat_2rate": "30.93",
         "boat_3rate": "53.61",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".26",
+        "exhibition_time": "6.88",
         "beforeinfo_name": "村松 将平",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -39794,10 +40554,12 @@
         "boat_no_data": "165",
         "boat_2rate": "30.11",
         "boat_3rate": "48.39",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".07",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "嘉手苅 徹哉",
-        "weight": "52.3kg"
+        "weight": "52.3kg",
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -39818,10 +40580,12 @@
         "boat_no_data": "162",
         "boat_2rate": "42.55",
         "boat_3rate": "57.45",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.91",
         "beforeinfo_name": "小川 知行",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -39842,10 +40606,12 @@
         "boat_no_data": "119",
         "boat_2rate": "29.90",
         "boat_3rate": "52.58",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.03",
+        "exhibition_time": "6.94",
         "beforeinfo_name": "大澤 誠也",
-        "weight": "55.4kg"
+        "weight": "55.4kg",
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -39866,10 +40632,12 @@
         "boat_no_data": "166",
         "boat_2rate": "23.40",
         "boat_3rate": "38.30",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": "F.03",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "郷原 章平",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -39890,10 +40658,12 @@
         "boat_no_data": "169",
         "boat_2rate": "34.74",
         "boat_3rate": "47.37",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".05",
+        "exhibition_time": "6.93",
         "beforeinfo_name": "寺本 重宣",
-        "weight": "50.0kg"
+        "weight": "50.0kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 52,
@@ -40017,10 +40787,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:55",
+    "beforeinfo_updated_at": "2026-08-23 12:54:59",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -40028,7 +40798,38 @@
       "wave_height": "3cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".26"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".07"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".05"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": "F.03"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": "F.03"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".05"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -40065,7 +40866,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "阿波 勝哉",
-        "weight": "55.7kg"
+        "weight": "55.7kg",
+        "tilt": "0.0"
       },
       {
         "frame": 2,
@@ -40089,7 +40891,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "小玉 啓太",
-        "weight": "52.2kg"
+        "weight": "52.2kg",
+        "tilt": "0.0"
       },
       {
         "frame": 3,
@@ -40113,7 +40916,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "益田 啓司",
-        "weight": "51.0kg"
+        "weight": "51.0kg",
+        "tilt": "0.0"
       },
       {
         "frame": 4,
@@ -40137,7 +40941,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "宮本 夏樹",
-        "weight": "54.9kg"
+        "weight": "54.9kg",
+        "tilt": "0.0"
       },
       {
         "frame": 5,
@@ -40161,7 +40966,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "山川 雄大",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0"
       },
       {
         "frame": 6,
@@ -40185,7 +40991,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "鈴木 秀茉",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "0.0"
       }
     ],
     "first_boat_reliability": 35,
@@ -40309,10 +41116,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:57",
+    "beforeinfo_updated_at": "2026-08-23 12:55:01",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -40601,10 +41408,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:49:57",
+    "beforeinfo_updated_at": "2026-08-23 12:55:03",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -40893,10 +41700,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:00",
+    "beforeinfo_updated_at": "2026-08-23 12:55:08",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -41185,10 +41992,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:01",
+    "beforeinfo_updated_at": "2026-08-23 12:55:08",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -41477,10 +42284,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:02",
+    "beforeinfo_updated_at": "2026-08-23 12:55:08",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -41769,10 +42576,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:05",
+    "beforeinfo_updated_at": "2026-08-23 12:55:09",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -42061,10 +42868,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:05",
+    "beforeinfo_updated_at": "2026-08-23 12:55:10",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -42353,10 +43160,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:08",
+    "beforeinfo_updated_at": "2026-08-23 12:55:13",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -42645,10 +43452,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:08",
+    "beforeinfo_updated_at": "2026-08-23 12:55:16",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -42937,10 +43744,10 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:10",
+    "beforeinfo_updated_at": "2026-08-23 12:55:16",
     "weather": {
-      "time": "11:35現在",
-      "air_temperature": "32.0℃",
+      "time": "1R時点",
+      "air_temperature": "33.0℃",
       "weather": "晴",
       "wind_speed": "3m",
       "wind_direction": "",
@@ -43241,15 +44048,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:10",
+    "beforeinfo_updated_at": "2026-08-23 12:55:16",
     "weather": {
-      "time": "11:33現在",
+      "time": "12:37現在",
       "air_temperature": "32.0℃",
       "weather": "晴",
-      "wind_speed": "4m",
+      "wind_speed": "5m",
       "wind_direction": "",
       "water_temperature": "30.0℃",
-      "wave_height": "4cm",
+      "wave_height": "5cm",
       "stabilizer": ""
     },
     "start_exhibition": [
@@ -43576,7 +44383,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:14",
+    "beforeinfo_updated_at": "2026-08-23 12:55:18",
     "weather": {
       "time": "1R時点",
       "air_temperature": "29.0℃",
@@ -43912,7 +44719,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:15",
+    "beforeinfo_updated_at": "2026-08-23 12:55:18",
     "weather": {
       "time": "2R時点",
       "air_temperature": "30.0℃",
@@ -44247,7 +45054,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:17",
+    "beforeinfo_updated_at": "2026-08-23 12:55:23",
     "weather": {
       "time": "3R時点",
       "air_temperature": "31.0℃",
@@ -44582,7 +45389,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:18",
+    "beforeinfo_updated_at": "2026-08-23 12:55:27",
     "weather": {
       "time": "4R時点",
       "air_temperature": "31.0℃",
@@ -44917,7 +45724,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:20",
+    "beforeinfo_updated_at": "2026-08-23 12:55:25",
     "weather": {
       "time": "5R時点",
       "air_temperature": "32.0℃",
@@ -45253,7 +46060,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:18",
+    "beforeinfo_updated_at": "2026-08-23 12:55:25",
     "weather": {
       "time": "6R時点",
       "air_temperature": "33.0℃",
@@ -45588,7 +46395,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:23",
+    "beforeinfo_updated_at": "2026-08-23 12:55:28",
     "weather": {
       "time": "7R時点",
       "air_temperature": "32.0℃",
@@ -45664,11 +46471,12 @@
         "boat_no_data": "11",
         "boat_2rate": "30.63",
         "boat_3rate": "36.94",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".24",
+        "exhibition_time": "6.85",
         "beforeinfo_name": "山田 丈",
         "weight": "52.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -45689,11 +46497,12 @@
         "boat_no_data": "57",
         "boat_2rate": "34.65",
         "boat_3rate": "52.48",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".19",
+        "exhibition_time": "6.91",
         "beforeinfo_name": "安藤 裕貴",
         "weight": "52.7kg",
-        "tilt": "-0.5"
+        "tilt": "-0.5",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -45714,11 +46523,12 @@
         "boat_no_data": "51",
         "boat_2rate": "36.28",
         "boat_3rate": "55.75",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".13",
+        "exhibition_time": "6.91",
         "beforeinfo_name": "山口 修路",
         "weight": "53.1kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -45739,11 +46549,12 @@
         "boat_no_data": "27",
         "boat_2rate": "26.13",
         "boat_3rate": "40.54",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".03",
+        "exhibition_time": "6.84",
         "beforeinfo_name": "山下 拓巳",
         "weight": "52.0kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -45764,11 +46575,12 @@
         "boat_no_data": "41",
         "boat_2rate": "34.48",
         "boat_3rate": "56.90",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".09",
+        "exhibition_time": "6.90",
         "beforeinfo_name": "小柳 勝希",
         "weight": "51.5kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -45789,11 +46601,12 @@
         "boat_no_data": "9",
         "boat_2rate": "33.00",
         "boat_3rate": "54.00",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".04",
+        "exhibition_time": "6.91",
         "beforeinfo_name": "河合 三弘",
         "weight": "52.6kg",
-        "tilt": "0.0"
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 54,
@@ -45917,18 +46730,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:24",
+    "beforeinfo_updated_at": "2026-08-23 12:55:27",
     "weather": {
-      "time": "7R時点",
+      "time": "8R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
-      "wind_speed": "4m",
+      "wind_speed": "5m",
       "wind_direction": "",
       "water_temperature": "30.0℃",
-      "wave_height": "4cm",
+      "wave_height": "5cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".24"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".19"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".13"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".03"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".09"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".04"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -45962,10 +46806,12 @@
         "boat_no_data": "56",
         "boat_2rate": "35.51",
         "boat_3rate": "50.47",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".06",
+        "exhibition_time": "6.84",
         "beforeinfo_name": "横田 貴満",
-        "weight": "49.5kg"
+        "weight": "49.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "1"
       },
       {
         "frame": 2,
@@ -45986,10 +46832,12 @@
         "boat_no_data": "15",
         "boat_2rate": "33.94",
         "boat_3rate": "57.80",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".16",
+        "exhibition_time": "6.92",
         "beforeinfo_name": "佐藤 大佑",
-        "weight": "54.5kg"
+        "weight": "54.4kg",
+        "tilt": "0.0",
+        "exhibition_course": "2"
       },
       {
         "frame": 3,
@@ -46010,10 +46858,12 @@
         "boat_no_data": "1",
         "boat_2rate": "39.62",
         "boat_3rate": "55.66",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".21",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "池本 輝明",
-        "weight": "51.0kg"
+        "weight": "50.5kg",
+        "tilt": "0.0",
+        "exhibition_course": "3"
       },
       {
         "frame": 4,
@@ -46034,10 +46884,12 @@
         "boat_no_data": "7",
         "boat_2rate": "38.24",
         "boat_3rate": "58.82",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".03",
+        "exhibition_time": "6.99",
         "beforeinfo_name": "浦田 信義",
-        "weight": "52.0kg"
+        "weight": "51.5kg",
+        "tilt": "-0.5",
+        "exhibition_course": "4"
       },
       {
         "frame": 5,
@@ -46058,10 +46910,12 @@
         "boat_no_data": "14",
         "boat_2rate": "30.00",
         "boat_3rate": "55.45",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".14",
+        "exhibition_time": "6.93",
         "beforeinfo_name": "乙藤 智史",
-        "weight": "53.8kg"
+        "weight": "54.1kg",
+        "tilt": "0.0",
+        "exhibition_course": "5"
       },
       {
         "frame": 6,
@@ -46082,10 +46936,12 @@
         "boat_no_data": "37",
         "boat_2rate": "35.85",
         "boat_3rate": "56.60",
-        "exhibition_st": "",
-        "exhibition_time": "",
+        "exhibition_st": ".11",
+        "exhibition_time": "6.89",
         "beforeinfo_name": "山本 景士郎",
-        "weight": "52.3kg"
+        "weight": "52.8kg",
+        "tilt": "0.0",
+        "exhibition_course": "6"
       }
     ],
     "first_boat_reliability": 57,
@@ -46209,18 +47065,49 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:27",
+    "beforeinfo_updated_at": "2026-08-23 12:55:31",
     "weather": {
-      "time": "7R時点",
+      "time": "9R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
-      "wind_speed": "4m",
+      "wind_speed": "5m",
       "wind_direction": "",
       "water_temperature": "30.0℃",
-      "wave_height": "4cm",
+      "wave_height": "5cm",
       "stabilizer": ""
     },
-    "start_exhibition": []
+    "start_exhibition": [
+      {
+        "course": 1,
+        "boat": 1,
+        "st": ".06"
+      },
+      {
+        "course": 2,
+        "boat": 2,
+        "st": ".16"
+      },
+      {
+        "course": 3,
+        "boat": 3,
+        "st": ".21"
+      },
+      {
+        "course": 4,
+        "boat": 4,
+        "st": ".03"
+      },
+      {
+        "course": 5,
+        "boat": 5,
+        "st": ".14"
+      },
+      {
+        "course": 6,
+        "boat": 6,
+        "st": ".11"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
@@ -46257,7 +47144,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "山下 昂大",
-        "weight": "52.5kg"
+        "weight": "52.5kg",
+        "tilt": "0.0"
       },
       {
         "frame": 2,
@@ -46281,7 +47169,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "平尾 崇典",
-        "weight": "49.5kg"
+        "weight": "49.5kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 3,
@@ -46305,7 +47194,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "坂元 浩仁",
-        "weight": "53.8kg"
+        "weight": "53.8kg",
+        "tilt": "0.0"
       },
       {
         "frame": 4,
@@ -46329,7 +47219,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "福田 翔吾",
-        "weight": "52.2kg"
+        "weight": "52.2kg",
+        "tilt": "0.0"
       },
       {
         "frame": 5,
@@ -46353,7 +47244,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "末永 由楽",
-        "weight": "52.0kg"
+        "weight": "52.0kg",
+        "tilt": "-0.5"
       },
       {
         "frame": 6,
@@ -46377,7 +47269,8 @@
         "exhibition_st": "",
         "exhibition_time": "",
         "beforeinfo_name": "永田 秀二",
-        "weight": "55.4kg"
+        "weight": "55.4kg",
+        "tilt": "0.0"
       }
     ],
     "first_boat_reliability": 60,
@@ -46501,15 +47394,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:28",
+    "beforeinfo_updated_at": "2026-08-23 12:55:33",
     "weather": {
-      "time": "7R時点",
+      "time": "9R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
-      "wind_speed": "4m",
+      "wind_speed": "5m",
       "wind_direction": "",
       "water_temperature": "30.0℃",
-      "wave_height": "4cm",
+      "wave_height": "5cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -46793,15 +47686,15 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:27",
+    "beforeinfo_updated_at": "2026-08-23 12:55:33",
     "weather": {
-      "time": "7R時点",
+      "time": "9R時点",
       "air_temperature": "32.0℃",
       "weather": "晴",
-      "wind_speed": "4m",
+      "wind_speed": "5m",
       "wind_direction": "",
       "water_temperature": "30.0℃",
-      "wave_height": "4cm",
+      "wave_height": "5cm",
       "stabilizer": ""
     },
     "start_exhibition": []
@@ -47073,7 +47966,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:29",
+    "beforeinfo_updated_at": "2026-08-23 12:55:37",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -47353,7 +48246,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:33",
+    "beforeinfo_updated_at": "2026-08-23 12:55:37",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -47633,7 +48526,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:34",
+    "beforeinfo_updated_at": "2026-08-23 12:55:36",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -47913,7 +48806,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:36",
+    "beforeinfo_updated_at": "2026-08-23 12:55:39",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -48193,7 +49086,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:37",
+    "beforeinfo_updated_at": "2026-08-23 12:55:41",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -48473,7 +49366,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:36",
+    "beforeinfo_updated_at": "2026-08-23 12:55:43",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -48753,7 +49646,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:40",
+    "beforeinfo_updated_at": "2026-08-23 12:55:46",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -49033,7 +49926,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:41",
+    "beforeinfo_updated_at": "2026-08-23 12:55:46",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -49313,7 +50206,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:43",
+    "beforeinfo_updated_at": "2026-08-23 12:55:47",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -49593,7 +50486,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:46",
+    "beforeinfo_updated_at": "2026-08-23 12:55:48",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -49873,7 +50766,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:46",
+    "beforeinfo_updated_at": "2026-08-23 12:55:50",
     "weather": {
       "time": "",
       "air_temperature": "風速",
@@ -50153,7 +51046,7 @@
     "popularity_gap_index": null,
     "popularity_gap_note": "オッズ未取得のため未計算",
     "beforeinfo_status": "取得済み",
-    "beforeinfo_updated_at": "2026-08-23 11:50:46",
+    "beforeinfo_updated_at": "2026-08-23 12:55:53",
     "weather": {
       "time": "",
       "air_temperature": "風速",
